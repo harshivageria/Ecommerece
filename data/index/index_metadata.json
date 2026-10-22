@@ -1,0 +1,7 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "product_count": 10000,
+  "embedding_dimension": 384,
+  "index_type": "IndexFlatIP",
+  "normalized_embeddings": true
+}

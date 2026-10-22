@@ -1,0 +1,7 @@
+Source dataset: calmgoose/amazon-product-data-2020
+Source page: https://huggingface.co/datasets/calmgoose/amazon-product-data-2020
+Dataset license: CC0-1.0 (as listed in the source dataset metadata)
+Raw file: data/raw/amazon_products.csv
+Processed file: data/processed/products.csv
+Processing: normalized text, parsed prices, retained source categories and URLs, combined source descriptions, deduplicated product IDs, and selected the first 10,000 valid records in source order.
+Brand: left blank because the source has no dedicated verified brand column.

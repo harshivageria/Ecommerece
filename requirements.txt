@@ -1,0 +1,7 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+rank-bm25
+streamlit
+pytest
